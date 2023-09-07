@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Visit the Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted on Netlify at (https://restaurant-react-build.netlify.app/).
 
 ## Available Scripts
 
